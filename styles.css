@@ -1,0 +1,19 @@
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 500;
+    color: cadetblue;
+    text-align: center;
+}
+
+.main-container {
+    background-color: bisque;
+    margin: 50px;
+    padding: 50px;
+}
+
+.main-heading.recipes-list {
+    font-family: 'Arial Narrow Bold', sans-serif;
+    font-weight: 400;
+    color: aquamarine;
+    text-align: center;
+}
